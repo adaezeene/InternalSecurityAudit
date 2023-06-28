@@ -13,36 +13,29 @@ I completed an internal security audit for the fictional company Botium Toys’ 
 - <b>Open Web Application Security Project (OWASP) security principles and security audits</b>
 
 
-<h2>Interal security audit walk-through:</h2>
+<h2>Interal Security Audit Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Scope and goals: 
+ <br/>
+
+ 
+<img src="https://i.imgur.com/eizJysF.jpg" height="80%" width="80%" alt="Scope and goals of the audit"/>
+<br />
+
+<br />
+Critical findings and findings:  <br/>
+
+
+<img src="https://i.imgur.com/Cu1yl0q.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Summary/Recommendations: <br/>
+<img src="https://i.imgur.com/i1eAMIM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></h2>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
