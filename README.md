@@ -1,4 +1,4 @@
-<h1>Interal Security Audit</h1>
+<h1>Internal Security Audit</h1>
 
 
 <h2>Description</h2>
