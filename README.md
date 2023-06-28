@@ -16,7 +16,8 @@ I completed an internal security audit for the fictional company Botium Toys’ 
 <h2>Interal Security Audit Walk-through:</h2>
 
 <p align="center">
-<h2>Scope and goals: 
+Scope and goals: 
+
  <br/>
 
  
@@ -32,7 +33,7 @@ Critical findings and findings:  <br/>
 
 <br />
 Summary/Recommendations: <br/>
-<img src="https://i.imgur.com/i1eAMIM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></h2>
+<img src="https://i.imgur.com/i1eAMIM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
