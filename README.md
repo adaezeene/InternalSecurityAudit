@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I completed an internal security audit for the fictional company Botium Toys’ cybersecurity program. The audit needed to align current business practices with industry standards and best practices. The audit was meant to provide mitigation recommendations for vulnerabilities found that were classified as "high risk," and present an overall strategy for improving the organization's security posture. I needed to document my findings, provide remediation plans and efforts, and communicate with stakeholders.
+I completed an internal security audit for the fictional company Botium Toys’ cybersecurity program. The audit needed to align current business practices with industry standards and best practices. The audit was meant to provide mitigation recommendations for vulnerabilities found that were classified as "high risk," and present an overall strategy for improving the organization's security posture. I needed to document my findings, provide remediation plans and efforts, and communicate with stakeholders. The following is taken from my memorandum to stakeholders. 
 <br />
 
 
